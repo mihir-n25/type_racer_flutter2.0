@@ -2,12 +2,8 @@
 
 ## 🚀 Overview
 
-Brief description of the game, its purpose, and the technologies used.
+Welcome to the Typeracer Multiplayer Game! This project is a real-time typing race game built using Flutter, Dart, and Socket.IO. Compete against players in a thrilling typing challenge, available across web, Android, and iOS platforms.
 
-![Typeracer Screenshot](images/img1.jpeg)
-![Typeracer Screenshot](images/img2.jpeg)
-![Typeracer Screenshot](images/img3.jpeg)
-*Race to type faster than your opponents!*
 
 ## 🎮 Features
 
@@ -19,8 +15,10 @@ Brief description of the game, its purpose, and the technologies used.
 
 Here are some glimpses of the game:
 
-![Screenshot 1](path-to-your-screenshot1.png)
-![Screenshot 2](path-to-your-screenshot2.png)
+![Typeracer Screenshot](images/img1.jpeg)
+![Typeracer Screenshot](images/img2.jpeg)
+![Typeracer Screenshot](images/img3.jpeg)
+*Race to type faster than your opponents!*
 
 ## 🛠️ Technologies Used
 
@@ -28,12 +26,4 @@ Here are some glimpses of the game:
 - **Dart**: For writing efficient and clean code.
 - **Socket.IO**: For handling real-time communication between players.
 
-## 🚀 Getting Started
 
-Steps to set up and run the project locally:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/typeracer-multiplayer.git
-   cd typeracer-multiplayer
