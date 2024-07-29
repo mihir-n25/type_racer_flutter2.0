@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Typeracer Tutorial',
+        title: 'Mihir Ka TypeRacer',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),

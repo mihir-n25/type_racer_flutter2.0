@@ -29,6 +29,7 @@ class CustomButton extends StatelessWidget {
           !isHome ? width : width / 5,
           50,
         ),
+        backgroundColor: Color.fromARGB(255, 165, 173, 223)
       ),
     );
   }
