@@ -1,16 +1,39 @@
-# typeracer_tutorial
+# Typeracer Multiplayer Game
 
-A new Flutter project.
+## 🚀 Overview
 
-## Getting Started
+Brief description of the game, its purpose, and the technologies used.
 
-This project is a starting point for a Flutter application.
+![Typeracer Screenshot](images/img1.jpeg)
+![Typeracer Screenshot](images/img2.jpeg)
+![Typeracer Screenshot](images/img3.jpeg)
+*Race to type faster than your opponents!*
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Real-Time Multiplayer**: Compete with friends and other players in real-time.
+- **Cross-Platform**: Available on web, Android, and iOS.
+- **Smooth UI/UX**: Designed for an engaging and immersive typing experience.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+Here are some glimpses of the game:
+
+![Screenshot 1](path-to-your-screenshot1.png)
+![Screenshot 2](path-to-your-screenshot2.png)
+
+## 🛠️ Technologies Used
+
+- **Flutter**: For building a beautiful and responsive UI.
+- **Dart**: For writing efficient and clean code.
+- **Socket.IO**: For handling real-time communication between players.
+
+## 🚀 Getting Started
+
+Steps to set up and run the project locally:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/typeracer-multiplayer.git
+   cd typeracer-multiplayer
